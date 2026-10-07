@@ -3,7 +3,7 @@ booktitle: Proceedings of the Analytical Connectionism Schools 2023--2024
 shortname: AC2324
 year: '2024'
 volume: '320'
-start: &1 2023-01-01
+start: 2023-01-01
 end: 2024-12-31
 note: Collection of papers from the 2023 edition (London, UK) and the 2024 edition
   (New York, USA)
@@ -80,7 +80,7 @@ conference:
   url: https://www.analytical-connectionism.net/school/
   location: London, UK and New York, USA
   dates:
-  - *1
+  - 2023-01-01
   - 2023-01-02
   - 2023-01-03
   - 2023-01-04
